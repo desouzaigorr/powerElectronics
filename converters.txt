@@ -1,5 +1,6 @@
 Conversores CA-CC
     Retificador de meia onda
+    Retificador onda completa
     Retificador trifásico
 Conversores CC-CA
     Inversor half-bridge
