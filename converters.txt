@@ -2,7 +2,8 @@ Conversores CA-CC
     Retificador de meia onda
     Retificador trifásico
 Conversores CC-CA
-
+    Inversor full-bridge
+    Inversor trifásico
 Conversores CC-CC
 
 Conversores CA-CA
