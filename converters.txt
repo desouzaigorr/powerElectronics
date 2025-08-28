@@ -1,5 +1,6 @@
 Conversores CA-CC
-
+    Retificador de meia onda
+    Retificador trifásico
 Conversores CC-CA
 
 Conversores CC-CC
