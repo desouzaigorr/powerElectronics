@@ -5,7 +5,7 @@ Conversores CA-CC
 Conversores CC-CA
     Inversor half-bridge
     Inversor full-bridge
-    Inversor trifásico
+    Inversor trifasico
 Conversores CC-CC
 
 Conversores CA-CA
